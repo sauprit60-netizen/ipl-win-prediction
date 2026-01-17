@@ -1,0 +1,41 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.tox/
+*.coverage
+.cache
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
